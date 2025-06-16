@@ -14,7 +14,7 @@ const Footer = () => {
           <h2 className="text-2xl font-semibold mb-4">Stay Connected</h2>
           <div className="flex space-x-4 text-lg">           
             
-            <a href="" className="text-white hover:text-gray-400 transition-colors duration-300"><FaInstagram /></a>
+            <a href="https://www.instagram.com/a_g_a_r_w_a_l___r_o_h_i_t_?igsh=eGIxa3ZqYTg3cmMy" className="text-white hover:text-gray-400 transition-colors duration-300"><FaInstagram /></a>
             <a href="https://www.linkedin.com/in/rohit-agarwal-nitian/" className="text-white hover:text-gray-400 transition-colors duration-300"><FaLinkedinIn /></a>
 
           </div>
