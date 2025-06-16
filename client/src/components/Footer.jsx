@@ -46,7 +46,7 @@ const Footer = () => {
             href=""
             className="text-gray-400 hover:text-white transition-colors duration-300 text-center md:text-right"
           >
-            <p>Developed by Rohit Agarwal</p>
+            <p>Developed by Rohit-Agarwal</p>
           </a>
         </div>
       </div>
